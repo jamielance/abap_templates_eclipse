@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="ABAP" deleted="false" description="Header Comment" enabled="true" name="*header comment">"***************************************************************&#13;
+" Author		Date								Description&#13;
+"***************************************************************&#13;
+" ${user}		 ${d:date('yyyy-MM-dd')}			Initial Creation&#13;
+"***************************************************************</template></templates>
