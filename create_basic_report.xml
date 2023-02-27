@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="ABAP" deleted="false" description="Create Report with header comment" enabled="true" name="zzcreate report">REPORT ${report_name}.&#13;
+&#13;
+*----------------------------------------------------------------------------------------&#13;
+*  ${description}&#13;
+*----------------------------------------------------------------------------------------&#13;
+*  Author:      ${author}&#13;
+*  Date:        ${date}&#13;
+*  Modified by: ${modified_by}&#13;
+*  Description: ${description}&#13;
+*----------------------------------------------------------------------------------------&#13;
+&#13;
+DATA: ${variable_name} TYPE ${data_type}.&#13;
+&#13;
+*----------------------------------------------------------------------------------------&#13;
+* END OF REPORT&#13;
+*----------------------------------------------------------------------------------------</template></templates>
